@@ -1,4 +1,4 @@
 $('#contact').click( function(){ 
-    window.open('mailto:garystuard123@gmail.com');
+    window.open('mailto:kpmccarthy01@gmail.com');
   }
   )
