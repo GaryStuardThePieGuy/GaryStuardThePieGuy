@@ -4,7 +4,6 @@ $('#contact').click( function(){
   )
 
   $('#facebook').click( function(){ 
-    window.open('https://www.facebook.com/search/top?q=the%20pie%20guy');
+    window.open('https://www.facebook.com/gstua1pies');
   }
   )
-  
